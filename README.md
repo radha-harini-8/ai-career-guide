@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Career Guide & Resume Analyzer
 
 A student-friendly full-stack Flask application that helps users plan their career, identify skill gaps, create learning roadmaps, analyze resumes, evaluate ATS compatibility, compare resumes to job descriptions, and prepare for interviews.
@@ -181,3 +182,7 @@ The application keeps the Gemini API key in a `.env` file and calls Gemini only 
 ## Notes
 
 This project is designed to be beginner-friendly, practical, and demonstrable for a B.Tech final-year project.
+=======
+# ai-career-guide
+This project is an AI-powered career platform using Flask, Gemini API, HTML, CSS, and JavaScript. It provides career guidance, skill-gap analysis, resume and ATS analysis, job matching, interview preparation, dashboards, and reports. JSON storage and fallback logic make it lightweight, secure, and suitable for student projects.
+>>>>>>> c87d634c1d149987085fc0fb802b70bab5e9219c
