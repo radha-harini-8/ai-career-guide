@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container nav-wrapper">
+            <div class="logo-wrap">
+                <div class="logo-badge">AI</div>
+                <div><h1>AI Career Guide</h1></div>
+            </div>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Open menu">☰</button>
+            <nav class="main-nav" id="main-nav">
+                <a href="/">Home</a>
+                <a href="/career-guide">Career Guide</a>
+                <a href="/resume-analyzer">Resume Analyzer</a>
+                <a href="/job-analyzer">Job Analyzer</a>
+                <a href="/interview-prep">Interview Prep</a>
+                <a href="/dashboard">Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-main">
+        <div class="container two-column-layout">
+            <section class="content-card">
+                <div class="section-heading">
+                    <span class="eyebrow">Job Description Analyzer</span>
+                    <h2>Extract skills and requirements from a job post</h2>
+                </div>
+
+                <form id="job-form" class="form-grid">
+                    <div class="field">
+                        <label for="job_title">Target Job Title</label>
+                        <input id="job_title" name="job_title" type="text" required placeholder="Data Analyst">
+                    </div>
+                    <div class="field">
+                        <label for="company_name">Company</label>
+                        <input id="company_name" name="company" type="text" placeholder="Optional">
+                    </div>
+                    <div class="field full">
+                        <label for="job_description">Job Description</label>
+                        <textarea id="job_description" name="job_description" rows="10" required placeholder="Paste the job description here..."></textarea>
+                    </div>
+                    <div class="full actions-row">
+                        <button type="submit" class="btn btn-primary">Analyze Job</button>
+                    </div>
+                </form>
+
+                <div id="job-loader" class="loader hidden">
+                    <div class="spinner"></div>
+                    <p>Extracting skills and requirements...</p>
+                </div>
+                <div id="job-result" class="result-panel hidden"></div>
+            </section>
+
+            <section class="content-card">
+                <div class="section-heading">
+                    <span class="eyebrow">Resume-to-Job Match</span>
+                    <h2>Compare your resume with a job description</h2>
+                </div>
+
+                <form id="match-form" class="form-grid" enctype="multipart/form-data">
+                    <div class="field full">
+                        <label for="match_resume">Upload resume</label>
+                        <input id="match_resume" name="resume" type="file" accept=".pdf,.docx,.txt">
+                    </div>
+                    <div class="field full">
+                        <label for="match_target_role">Target role</label>
+                        <input id="match_target_role" name="target_role" type="text" placeholder="Data Analyst">
+                    </div>
+                    <div class="field full">
+                        <label for="match_job_description">Paste job description</label>
+                        <textarea id="match_job_description" name="job_description" rows="10" required placeholder="Paste the job description here..."></textarea>
+                    </div>
+                    <div class="full actions-row">
+                        <button type="submit" class="btn btn-primary">Check Match</button>
+                    </div>
+                </form>
+
+                <div id="match-loader" class="loader hidden">
+                    <div class="spinner"></div>
+                    <p>Comparing resume and job description...</p>
+                </div>
+                <div id="match-result" class="result-panel hidden"></div>
+            </section>
+        </div>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/jobs.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

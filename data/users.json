@@ -1,0 +1,77 @@
+[
+  {
+    "id": "user_ebd91cfc",
+    "name": "Ananya",
+    "target_role": "Data Analyst",
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "education": "B.Tech CSE",
+    "experience_level": "Fresher",
+    "available_hours": "2 hours/day",
+    "career_goal": "Get an entry-level Data Analyst job",
+    "created_at": "2026-09-30T11:28:48.505494+00:00",
+    "updated_at": "2026-09-30T11:28:48.506325+00:00"
+  },
+  {
+    "id": "user_e5bc2983",
+    "name": "Radha Harini",
+    "target_role": "data analyst",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "education": "B.Tech CSE",
+    "experience_level": "Fresher",
+    "available_hours": "3",
+    "career_goal": "Get placed in MNC like Deloitte in n Data Analyst role",
+    "created_at": "2026-09-30T11:36:36.641896+00:00",
+    "updated_at": "2026-09-30T11:36:36.643298+00:00"
+  },
+  {
+    "id": "user_631c37bb",
+    "name": "Radha Harini",
+    "target_role": "data analyst",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "education": "B.Tech CSE",
+    "experience_level": "Fresher",
+    "available_hours": "3",
+    "career_goal": "Get placed in MNC like Deloitte in n Data Analyst role",
+    "created_at": "2026-09-30T11:36:46.478071+00:00",
+    "updated_at": "2026-09-30T11:36:46.481242+00:00"
+  },
+  {
+    "id": "user_415ba9e7",
+    "name": "Ananya",
+    "target_role": "Data Analyst",
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "education": "B.Tech CSE",
+    "experience_level": "Fresher",
+    "available_hours": "2 hours/day",
+    "career_goal": "Get an entry-level Data Analyst job",
+    "created_at": "2026-09-30T11:38:20.551381+00:00",
+    "updated_at": "2026-09-30T11:38:20.552011+00:00"
+  },
+  {
+    "id": "user_ef40d68d",
+    "name": "Radha Harini",
+    "target_role": "data analyst",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "education": "B.Tech CSE",
+    "experience_level": "Fresher",
+    "available_hours": "3",
+    "career_goal": "Get placed in an MNC as a Data Analyst",
+    "created_at": "2026-09-30T11:39:46.815082+00:00",
+    "updated_at": "2026-09-30T11:39:46.817611+00:00"
+  }
+]

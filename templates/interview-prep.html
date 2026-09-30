@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Prep</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container nav-wrapper">
+            <div class="logo-wrap">
+                <div class="logo-badge">AI</div>
+                <div><h1>AI Career Guide</h1></div>
+            </div>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Open menu">☰</button>
+            <nav class="main-nav" id="main-nav">
+                <a href="/">Home</a>
+                <a href="/career-guide">Career Guide</a>
+                <a href="/resume-analyzer">Resume Analyzer</a>
+                <a href="/job-analyzer">Job Analyzer</a>
+                <a href="/interview-prep">Interview Prep</a>
+                <a href="/dashboard">Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-main">
+        <div class="container narrow-container">
+            <section class="content-card">
+                <div class="section-heading">
+                    <span class="eyebrow">Interview Preparation</span>
+                    <h2>Practice role-specific questions</h2>
+                </div>
+
+                <form id="interview-form" class="form-grid">
+                    <div class="field">
+                        <label for="interview_role">Target role</label>
+                        <input id="interview_role" name="target_role" type="text" required placeholder="Data Analyst">
+                    </div>
+                    <div class="field">
+                        <label for="interview_skills">Skills</label>
+                        <input id="interview_skills" name="skills" type="text" placeholder="Python, SQL, Excel">
+                    </div>
+                    <div class="field full">
+                        <label for="interview_resume">Resume summary or text</label>
+                        <textarea id="interview_resume" name="resume_text" rows="5" placeholder="Optional resume details"></textarea>
+                    </div>
+                    <div class="field full">
+                        <label for="interview_description">Optional job description</label>
+                        <textarea id="interview_description" name="job_description" rows="5" placeholder="Paste a job description for more relevant questions"></textarea>
+                    </div>
+                    <div class="full actions-row">
+                        <button type="submit" class="btn btn-primary">Generate Questions</button>
+                    </div>
+                </form>
+
+                <div id="interview-loader" class="loader hidden">
+                    <div class="spinner"></div>
+                    <p>Preparing interview questions...</p>
+                </div>
+                <div id="interview-result" class="result-panel hidden"></div>
+            </section>
+        </div>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/interview.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

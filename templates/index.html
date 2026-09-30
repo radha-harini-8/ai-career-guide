@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Career Guide</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container nav-wrapper">
+            <div class="logo-wrap">
+                <div class="logo-badge">AI</div>
+                <div>
+                    <h1>AI Career Guide</h1>
+                </div>
+            </div>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Open menu">☰</button>
+            <nav class="main-nav" id="main-nav">
+                <a href="/">Home</a>
+                <a href="/career-guide">Career Guide</a>
+                <a href="/resume-analyzer">Resume Analyzer</a>
+                <a href="/job-analyzer">Job Analyzer</a>
+                <a href="/interview-prep">Interview Prep</a>
+                <a href="/dashboard">Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero section">
+            <div class="container hero-grid">
+                <div class="hero-copy">
+                    <span class="pill">Career planning with AI</span>
+                    <h2>Build Your Career With AI</h2>
+                    <p>Analyze your skills, improve your resume, identify skill gaps, and create a personalized career roadmap.</p>
+                    <div class="cta-row">
+                        <a class="btn btn-primary" href="/career-guide">Create Career Plan</a>
+                        <a class="btn btn-secondary" href="/resume-analyzer">Analyze Resume</a>
+                    </div>
+                </div>
+                <div class="hero-visual">
+                    <div class="stat-card">
+                        <small>AI-generated career readiness estimate</small>
+                        <strong>76/100</strong>
+                        <span>Based on your current profile and goals</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features section light-section">
+            <div class="container">
+                <div class="section-heading center">
+                    <span class="eyebrow">Core features</span>
+                    <h3>Everything you need to move forward</h3>
+                </div>
+                <div class="feature-grid">
+                    <article class="feature-card">
+                        <div class="icon-wrap">🧭</div>
+                        <h4>AI Career Roadmap</h4>
+                        <p>Personalized 30-day learning plans based on your role, skills, and time availability.</p>
+                    </article>
+                    <article class="feature-card">
+                        <div class="icon-wrap">📄</div>
+                        <h4>Resume ATS Analysis</h4>
+                        <p>Check structure, keyword fit, missing sections, and ATS compatibility estimate.</p>
+                    </article>
+                    <article class="feature-card">
+                        <div class="icon-wrap">📈</div>
+                        <h4>Skill Gap Detection</h4>
+                        <p>Identify the most important missing skills and where to focus your effort first.</p>
+                    </article>
+                    <article class="feature-card">
+                        <div class="icon-wrap">🎯</div>
+                        <h4>Job Matching</h4>
+                        <p>Compare your resume against job descriptions and find alignment gaps quickly.</p>
+                    </article>
+                    <article class="feature-card">
+                        <div class="icon-wrap">🗣️</div>
+                        <h4>Interview Preparation</h4>
+                        <p>Generate realistic technical, HR, and scenario questions for the target role.</p>
+                    </article>
+                    <article class="feature-card">
+                        <div class="icon-wrap">📚</div>
+                        <h4>Learning Resources</h4>
+                        <p>Find books, courses, documentation, YouTube resources, and practical exercises.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "resume_91f762d3",
+    "user_id": "user_3d25255c",
+    "target_role": "data analyst",
+    "filename": "Radha_Harini_Resume.docx",
+    "career_readiness": {
+      "score": 75,
+      "label": "AI-generated career readiness estimate"
+    },
+    "analysis": {
+      "summary": "Resume review for data analyst. It shows a reasonable base profile and could be improved with more role-specific evidence.",
+      "strengths": [
+        "Relevant technical keywords found",
+        "Basic skill coverage detected"
+      ],
+      "improvement_areas": [
+        "Include specific project outcomes",
+        "Mention metrics and achievements",
+        "Match skills to the role"
+      ],
+      "missing_sections": [
+        "Add a concise professional summary",
+        "Add measurable results",
+        "List certifications clearly"
+      ],
+      "skills": [
+        "python",
+        "sql",
+        "excel",
+        "power bi",
+        "tableau",
+        "statistics",
+        "java",
+        "ai"
+      ],
+      "target_role_relevance": "Moderate alignment; a few missing role keywords can improve the fit.",
+      "formatting_issues": [
+        "Use standard headings like Summary, Education, Experience, Skills, Projects",
+        "Avoid inconsistent spacing or formatting"
+      ],
+      "sections": {
+        "contact": "contact information found",
+        "summary": "summary found",
+        "education": "education section found",
+        "projects": "project section found",
+        "experience": "experience section found"
+      }
+    },
+    "created_at": "2026-09-30T11:40:50.436918+00:00",
+    "updated_at": "2026-09-30T11:40:50.437908+00:00"
+  }
+]

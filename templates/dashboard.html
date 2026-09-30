@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container nav-wrapper">
+            <div class="logo-wrap">
+                <div class="logo-badge">AI</div>
+                <div><h1>AI Career Guide</h1></div>
+            </div>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Open menu">☰</button>
+            <nav class="main-nav" id="main-nav">
+                <a href="/">Home</a>
+                <a href="/career-guide">Career Guide</a>
+                <a href="/resume-analyzer">Resume Analyzer</a>
+                <a href="/job-analyzer">Job Analyzer</a>
+                <a href="/interview-prep">Interview Prep</a>
+                <a href="/dashboard">Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-main">
+        <div class="container dashboard-shell">
+            <div id="dashboard-content" class="dashboard-content"></div>
+        </div>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

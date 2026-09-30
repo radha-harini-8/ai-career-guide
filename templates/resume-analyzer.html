@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container nav-wrapper">
+            <div class="logo-wrap">
+                <div class="logo-badge">AI</div>
+                <div><h1>AI Career Guide</h1></div>
+            </div>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Open menu">☰</button>
+            <nav class="main-nav" id="main-nav">
+                <a href="/">Home</a>
+                <a href="/career-guide">Career Guide</a>
+                <a href="/resume-analyzer">Resume Analyzer</a>
+                <a href="/job-analyzer">Job Analyzer</a>
+                <a href="/interview-prep">Interview Prep</a>
+                <a href="/dashboard">Dashboard</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-main">
+        <div class="container narrow-container">
+            <section class="content-card">
+                <div class="section-heading">
+                    <span class="eyebrow">Resume Analyzer</span>
+                    <h2>Review resume quality and ATS fit</h2>
+                </div>
+
+                <form id="resume-form" class="form-grid" enctype="multipart/form-data">
+                    <div class="field full">
+                        <label for="resume_file">Upload resume (PDF, DOCX, TXT)</label>
+                        <input id="resume_file" name="resume" type="file" accept=".pdf,.docx,.txt" required>
+                    </div>
+                    <div class="field full">
+                        <label for="resume_target_role">Target role</label>
+                        <input id="resume_target_role" name="target_role" type="text" placeholder="Data Analyst" required>
+                    </div>
+
+                    <div class="full actions-row">
+                        <button type="submit" class="btn btn-primary">Analyze Resume</button>
+                    </div>
+                </form>
+
+                <div id="resume-loader" class="loader hidden">
+                    <div class="spinner"></div>
+                    <p>Analyzing your resume...</p>
+                </div>
+                <div id="resume-result" class="result-panel hidden"></div>
+            </section>
+        </div>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/resume.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

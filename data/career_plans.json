@@ -1,0 +1,2872 @@
+[
+  {
+    "id": "plan_a5c49221",
+    "user_id": "user_ebd91cfc",
+    "created_at": "2026-09-30T11:28:48.785265+00:00",
+    "updated_at": "2026-09-30T11:28:48.785875+00:00",
+    "plan": {
+      "summary": "Focus on role-aligned upskilling for Data Analyst. Build practical knowledge, revise fundamentals, and create a portfolio that demonstrates your readiness.",
+      "target_role": "Data Analyst",
+      "current_skills": [
+        "Python",
+        "SQL"
+      ],
+      "required_skills": [
+        "excel",
+        "sql",
+        "python",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "skill_gaps": [
+        "excel",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "readiness_estimate": {
+        "score": 76,
+        "explanation": "AI-generated career readiness estimate based on the information provided. It should be used as guidance, not a guarantee."
+      },
+      "days": [
+        {
+          "day": 1,
+          "topic": "Excel",
+          "tasks": [
+            "Learn the fundamentals of Excel.",
+            "Practice with 2-3 guided exercises for Excel.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Excel official documentation",
+            "Excel beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Excel and improve confidence in practical use."
+        },
+        {
+          "day": 2,
+          "topic": "Sql",
+          "tasks": [
+            "Learn the fundamentals of Sql.",
+            "Practice with 2-3 guided exercises for Sql.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Sql official documentation",
+            "Sql beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Sql and improve confidence in practical use."
+        },
+        {
+          "day": 3,
+          "topic": "Python",
+          "tasks": [
+            "Learn the fundamentals of Python.",
+            "Practice with 2-3 guided exercises for Python.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Python official documentation",
+            "Python beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Python and improve confidence in practical use."
+        },
+        {
+          "day": 4,
+          "topic": "Statistics",
+          "tasks": [
+            "Learn the fundamentals of Statistics.",
+            "Practice with 2-3 guided exercises for Statistics.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Statistics official documentation",
+            "Statistics beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Statistics and improve confidence in practical use."
+        },
+        {
+          "day": 5,
+          "topic": "Power Bi",
+          "tasks": [
+            "Learn the fundamentals of Power Bi.",
+            "Practice with 2-3 guided exercises for Power Bi.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Power Bi official documentation",
+            "Power Bi beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Power Bi and improve confidence in practical use."
+        },
+        {
+          "day": 6,
+          "topic": "Data Visualization",
+          "tasks": [
+            "Learn the fundamentals of Data Visualization.",
+            "Practice with 2-3 guided exercises for Data Visualization.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Data Visualization official documentation",
+            "Data Visualization beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Data Visualization and improve confidence in practical use."
+        },
+        {
+          "day": 7,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 8,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 9,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 10,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 11,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 12,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 13,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 14,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 15,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 16,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 17,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 18,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 19,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 20,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 21,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 22,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 23,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 24,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 25,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 26,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 27,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 28,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 29,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 30,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Sales Dashboard",
+          "difficulty": "Beginner",
+          "skills": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "description": "Analyze sales data and build an interactive dashboard.",
+          "tools": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "expected_output": "Dashboard with trends, filters, and KPI cards.",
+          "portfolio_value": "Shows business analysis and visualization skills."
+        },
+        {
+          "title": "Customer Churn Analysis",
+          "difficulty": "Intermediate",
+          "skills": [
+            "Python",
+            "Pandas",
+            "Visualization"
+          ],
+          "description": "Identify churn drivers and create a retention summary.",
+          "tools": [
+            "Python",
+            "Pandas",
+            "Matplotlib"
+          ],
+          "expected_output": "Churn report with charts and recommendations.",
+          "portfolio_value": "Demonstrates data analysis and storytelling."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Microsoft Power BI Data Analyst Associate",
+          "provider": "Microsoft",
+          "skill_covered": "Power BI, reporting, analytics",
+          "level": "Intermediate",
+          "url": "https://learn.microsoft.com/"
+        },
+        {
+          "name": "Google Data Analytics",
+          "provider": "Google",
+          "skill_covered": "SQL, spreadsheets, analytics",
+          "level": "Beginner",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+        }
+      ],
+      "interview_topics": [
+        "SQL joins and query optimization",
+        "Excel formulas and dashboarding",
+        "Business interpretation of metrics",
+        "Communication of findings to stakeholders"
+      ]
+    }
+  },
+  {
+    "id": "plan_adf5ca9f",
+    "user_id": "user_e5bc2983",
+    "created_at": "2026-09-30T11:36:36.902466+00:00",
+    "updated_at": "2026-09-30T11:36:36.904100+00:00",
+    "plan": {
+      "summary": "Focus on role-aligned upskilling for data analyst. Build practical knowledge, revise fundamentals, and create a portfolio that demonstrates your readiness.",
+      "target_role": "data analyst",
+      "current_skills": [
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "excel",
+        "sql",
+        "python",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "skill_gaps": [
+        "excel",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "readiness_estimate": {
+        "score": 76,
+        "explanation": "AI-generated career readiness estimate based on the information provided. It should be used as guidance, not a guarantee."
+      },
+      "days": [
+        {
+          "day": 1,
+          "topic": "Excel",
+          "tasks": [
+            "Learn the fundamentals of Excel.",
+            "Practice with 2-3 guided exercises for Excel.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Excel official documentation",
+            "Excel beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Excel and improve confidence in practical use."
+        },
+        {
+          "day": 2,
+          "topic": "Sql",
+          "tasks": [
+            "Learn the fundamentals of Sql.",
+            "Practice with 2-3 guided exercises for Sql.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Sql official documentation",
+            "Sql beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Sql and improve confidence in practical use."
+        },
+        {
+          "day": 3,
+          "topic": "Python",
+          "tasks": [
+            "Learn the fundamentals of Python.",
+            "Practice with 2-3 guided exercises for Python.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Python official documentation",
+            "Python beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Python and improve confidence in practical use."
+        },
+        {
+          "day": 4,
+          "topic": "Statistics",
+          "tasks": [
+            "Learn the fundamentals of Statistics.",
+            "Practice with 2-3 guided exercises for Statistics.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Statistics official documentation",
+            "Statistics beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Statistics and improve confidence in practical use."
+        },
+        {
+          "day": 5,
+          "topic": "Power Bi",
+          "tasks": [
+            "Learn the fundamentals of Power Bi.",
+            "Practice with 2-3 guided exercises for Power Bi.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Power Bi official documentation",
+            "Power Bi beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Power Bi and improve confidence in practical use."
+        },
+        {
+          "day": 6,
+          "topic": "Data Visualization",
+          "tasks": [
+            "Learn the fundamentals of Data Visualization.",
+            "Practice with 2-3 guided exercises for Data Visualization.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Data Visualization official documentation",
+            "Data Visualization beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Data Visualization and improve confidence in practical use."
+        },
+        {
+          "day": 7,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 8,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 9,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 10,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 11,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 12,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 13,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 14,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 15,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 16,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 17,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 18,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 19,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 20,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 21,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 22,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 23,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 24,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 25,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 26,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 27,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 28,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 29,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 30,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Sales Dashboard",
+          "difficulty": "Beginner",
+          "skills": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "description": "Analyze sales data and build an interactive dashboard.",
+          "tools": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "expected_output": "Dashboard with trends, filters, and KPI cards.",
+          "portfolio_value": "Shows business analysis and visualization skills."
+        },
+        {
+          "title": "Customer Churn Analysis",
+          "difficulty": "Intermediate",
+          "skills": [
+            "Python",
+            "Pandas",
+            "Visualization"
+          ],
+          "description": "Identify churn drivers and create a retention summary.",
+          "tools": [
+            "Python",
+            "Pandas",
+            "Matplotlib"
+          ],
+          "expected_output": "Churn report with charts and recommendations.",
+          "portfolio_value": "Demonstrates data analysis and storytelling."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Microsoft Power BI Data Analyst Associate",
+          "provider": "Microsoft",
+          "skill_covered": "Power BI, reporting, analytics",
+          "level": "Intermediate",
+          "url": "https://learn.microsoft.com/"
+        },
+        {
+          "name": "Google Data Analytics",
+          "provider": "Google",
+          "skill_covered": "SQL, spreadsheets, analytics",
+          "level": "Beginner",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+        }
+      ],
+      "interview_topics": [
+        "SQL joins and query optimization",
+        "Excel formulas and dashboarding",
+        "Business interpretation of metrics",
+        "Communication of findings to stakeholders"
+      ]
+    }
+  },
+  {
+    "id": "plan_5a2fb357",
+    "user_id": "user_631c37bb",
+    "created_at": "2026-09-30T11:36:46.682835+00:00",
+    "updated_at": "2026-09-30T11:36:46.685043+00:00",
+    "plan": {
+      "summary": "Focus on role-aligned upskilling for data analyst. Build practical knowledge, revise fundamentals, and create a portfolio that demonstrates your readiness.",
+      "target_role": "data analyst",
+      "current_skills": [
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "excel",
+        "sql",
+        "python",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "skill_gaps": [
+        "excel",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "readiness_estimate": {
+        "score": 76,
+        "explanation": "AI-generated career readiness estimate based on the information provided. It should be used as guidance, not a guarantee."
+      },
+      "days": [
+        {
+          "day": 1,
+          "topic": "Excel",
+          "tasks": [
+            "Learn the fundamentals of Excel.",
+            "Practice with 2-3 guided exercises for Excel.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Excel official documentation",
+            "Excel beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Excel and improve confidence in practical use."
+        },
+        {
+          "day": 2,
+          "topic": "Sql",
+          "tasks": [
+            "Learn the fundamentals of Sql.",
+            "Practice with 2-3 guided exercises for Sql.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Sql official documentation",
+            "Sql beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Sql and improve confidence in practical use."
+        },
+        {
+          "day": 3,
+          "topic": "Python",
+          "tasks": [
+            "Learn the fundamentals of Python.",
+            "Practice with 2-3 guided exercises for Python.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Python official documentation",
+            "Python beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Python and improve confidence in practical use."
+        },
+        {
+          "day": 4,
+          "topic": "Statistics",
+          "tasks": [
+            "Learn the fundamentals of Statistics.",
+            "Practice with 2-3 guided exercises for Statistics.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Statistics official documentation",
+            "Statistics beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Statistics and improve confidence in practical use."
+        },
+        {
+          "day": 5,
+          "topic": "Power Bi",
+          "tasks": [
+            "Learn the fundamentals of Power Bi.",
+            "Practice with 2-3 guided exercises for Power Bi.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Power Bi official documentation",
+            "Power Bi beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Power Bi and improve confidence in practical use."
+        },
+        {
+          "day": 6,
+          "topic": "Data Visualization",
+          "tasks": [
+            "Learn the fundamentals of Data Visualization.",
+            "Practice with 2-3 guided exercises for Data Visualization.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Data Visualization official documentation",
+            "Data Visualization beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Data Visualization and improve confidence in practical use."
+        },
+        {
+          "day": 7,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 8,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 9,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 10,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 11,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 12,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 13,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 14,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 15,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 16,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 17,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 18,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 19,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 20,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 21,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 22,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 23,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 24,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 25,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 26,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 27,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 28,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 29,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 30,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Sales Dashboard",
+          "difficulty": "Beginner",
+          "skills": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "description": "Analyze sales data and build an interactive dashboard.",
+          "tools": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "expected_output": "Dashboard with trends, filters, and KPI cards.",
+          "portfolio_value": "Shows business analysis and visualization skills."
+        },
+        {
+          "title": "Customer Churn Analysis",
+          "difficulty": "Intermediate",
+          "skills": [
+            "Python",
+            "Pandas",
+            "Visualization"
+          ],
+          "description": "Identify churn drivers and create a retention summary.",
+          "tools": [
+            "Python",
+            "Pandas",
+            "Matplotlib"
+          ],
+          "expected_output": "Churn report with charts and recommendations.",
+          "portfolio_value": "Demonstrates data analysis and storytelling."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Microsoft Power BI Data Analyst Associate",
+          "provider": "Microsoft",
+          "skill_covered": "Power BI, reporting, analytics",
+          "level": "Intermediate",
+          "url": "https://learn.microsoft.com/"
+        },
+        {
+          "name": "Google Data Analytics",
+          "provider": "Google",
+          "skill_covered": "SQL, spreadsheets, analytics",
+          "level": "Beginner",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+        }
+      ],
+      "interview_topics": [
+        "SQL joins and query optimization",
+        "Excel formulas and dashboarding",
+        "Business interpretation of metrics",
+        "Communication of findings to stakeholders"
+      ]
+    }
+  },
+  {
+    "id": "plan_549a4e1e",
+    "user_id": "user_415ba9e7",
+    "created_at": "2026-09-30T11:38:20.740342+00:00",
+    "updated_at": "2026-09-30T11:38:20.742985+00:00",
+    "plan": {
+      "summary": "Focus on role-aligned upskilling for Data Analyst. Build practical knowledge, revise fundamentals, and create a portfolio that demonstrates your readiness.",
+      "target_role": "Data Analyst",
+      "current_skills": [
+        "Python",
+        "SQL"
+      ],
+      "required_skills": [
+        "excel",
+        "sql",
+        "python",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "skill_gaps": [
+        "excel",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "readiness_estimate": {
+        "score": 76,
+        "explanation": "AI-generated career readiness estimate based on the information provided. It should be used as guidance, not a guarantee."
+      },
+      "days": [
+        {
+          "day": 1,
+          "topic": "Excel",
+          "tasks": [
+            "Learn the fundamentals of Excel.",
+            "Practice with 2-3 guided exercises for Excel.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Excel official documentation",
+            "Excel beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Excel and improve confidence in practical use."
+        },
+        {
+          "day": 2,
+          "topic": "Sql",
+          "tasks": [
+            "Learn the fundamentals of Sql.",
+            "Practice with 2-3 guided exercises for Sql.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Sql official documentation",
+            "Sql beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Sql and improve confidence in practical use."
+        },
+        {
+          "day": 3,
+          "topic": "Python",
+          "tasks": [
+            "Learn the fundamentals of Python.",
+            "Practice with 2-3 guided exercises for Python.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Python official documentation",
+            "Python beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Python and improve confidence in practical use."
+        },
+        {
+          "day": 4,
+          "topic": "Statistics",
+          "tasks": [
+            "Learn the fundamentals of Statistics.",
+            "Practice with 2-3 guided exercises for Statistics.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Statistics official documentation",
+            "Statistics beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Statistics and improve confidence in practical use."
+        },
+        {
+          "day": 5,
+          "topic": "Power Bi",
+          "tasks": [
+            "Learn the fundamentals of Power Bi.",
+            "Practice with 2-3 guided exercises for Power Bi.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Power Bi official documentation",
+            "Power Bi beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Power Bi and improve confidence in practical use."
+        },
+        {
+          "day": 6,
+          "topic": "Data Visualization",
+          "tasks": [
+            "Learn the fundamentals of Data Visualization.",
+            "Practice with 2-3 guided exercises for Data Visualization.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Data Visualization official documentation",
+            "Data Visualization beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Data Visualization and improve confidence in practical use."
+        },
+        {
+          "day": 7,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 8,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 9,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 10,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 11,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 12,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 13,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 14,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 15,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 16,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 17,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 18,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 19,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 20,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 21,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 22,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 23,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 24,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 25,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 26,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 27,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 28,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 29,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 30,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 2,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Sales Dashboard",
+          "difficulty": "Beginner",
+          "skills": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "description": "Analyze sales data and build an interactive dashboard.",
+          "tools": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "expected_output": "Dashboard with trends, filters, and KPI cards.",
+          "portfolio_value": "Shows business analysis and visualization skills."
+        },
+        {
+          "title": "Customer Churn Analysis",
+          "difficulty": "Intermediate",
+          "skills": [
+            "Python",
+            "Pandas",
+            "Visualization"
+          ],
+          "description": "Identify churn drivers and create a retention summary.",
+          "tools": [
+            "Python",
+            "Pandas",
+            "Matplotlib"
+          ],
+          "expected_output": "Churn report with charts and recommendations.",
+          "portfolio_value": "Demonstrates data analysis and storytelling."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Microsoft Power BI Data Analyst Associate",
+          "provider": "Microsoft",
+          "skill_covered": "Power BI, reporting, analytics",
+          "level": "Intermediate",
+          "url": "https://learn.microsoft.com/"
+        },
+        {
+          "name": "Google Data Analytics",
+          "provider": "Google",
+          "skill_covered": "SQL, spreadsheets, analytics",
+          "level": "Beginner",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+        }
+      ],
+      "interview_topics": [
+        "SQL joins and query optimization",
+        "Excel formulas and dashboarding",
+        "Business interpretation of metrics",
+        "Communication of findings to stakeholders"
+      ]
+    }
+  },
+  {
+    "id": "plan_5c17ee50",
+    "user_id": "user_ef40d68d",
+    "created_at": "2026-09-30T11:39:47.002729+00:00",
+    "updated_at": "2026-09-30T11:39:47.004184+00:00",
+    "plan": {
+      "summary": "Focus on role-aligned upskilling for data analyst. Build practical knowledge, revise fundamentals, and create a portfolio that demonstrates your readiness.",
+      "target_role": "data analyst",
+      "current_skills": [
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "excel",
+        "sql",
+        "python",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "skill_gaps": [
+        "excel",
+        "statistics",
+        "power bi",
+        "data visualization",
+        "reporting"
+      ],
+      "readiness_estimate": {
+        "score": 76,
+        "explanation": "AI-generated career readiness estimate based on the information provided. It should be used as guidance, not a guarantee."
+      },
+      "days": [
+        {
+          "day": 1,
+          "topic": "Excel",
+          "tasks": [
+            "Learn the fundamentals of Excel.",
+            "Practice with 2-3 guided exercises for Excel.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Excel official documentation",
+            "Excel beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Excel and improve confidence in practical use."
+        },
+        {
+          "day": 2,
+          "topic": "Sql",
+          "tasks": [
+            "Learn the fundamentals of Sql.",
+            "Practice with 2-3 guided exercises for Sql.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Sql official documentation",
+            "Sql beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Sql and improve confidence in practical use."
+        },
+        {
+          "day": 3,
+          "topic": "Python",
+          "tasks": [
+            "Learn the fundamentals of Python.",
+            "Practice with 2-3 guided exercises for Python.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Python official documentation",
+            "Python beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Python and improve confidence in practical use."
+        },
+        {
+          "day": 4,
+          "topic": "Statistics",
+          "tasks": [
+            "Learn the fundamentals of Statistics.",
+            "Practice with 2-3 guided exercises for Statistics.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Statistics official documentation",
+            "Statistics beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Statistics and improve confidence in practical use."
+        },
+        {
+          "day": 5,
+          "topic": "Power Bi",
+          "tasks": [
+            "Learn the fundamentals of Power Bi.",
+            "Practice with 2-3 guided exercises for Power Bi.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Power Bi official documentation",
+            "Power Bi beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Power Bi and improve confidence in practical use."
+        },
+        {
+          "day": 6,
+          "topic": "Data Visualization",
+          "tasks": [
+            "Learn the fundamentals of Data Visualization.",
+            "Practice with 2-3 guided exercises for Data Visualization.",
+            "Note key learnings and create a short summary."
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Data Visualization official documentation",
+            "Data Visualization beginner tutorial video",
+            "Practice exercises and notes"
+          ],
+          "outcome": "Build a basic understanding of Data Visualization and improve confidence in practical use."
+        },
+        {
+          "day": 7,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 8,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 9,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 10,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 11,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 12,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 13,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 14,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 15,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 16,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 17,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 18,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 19,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 20,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 21,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 22,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 23,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 24,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 25,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 26,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 27,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 28,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 29,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        },
+        {
+          "day": 30,
+          "topic": "Applied Data Analyst Practice",
+          "tasks": [
+            "Review the previous topic",
+            "Apply it to a mini project",
+            "Document the outcome"
+          ],
+          "estimated_hours": 3,
+          "resources": [
+            "Official documentation",
+            "Project walkthrough",
+            "Practice notebook"
+          ],
+          "outcome": "Translate learning into a small practical task connected to the target role."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Sales Dashboard",
+          "difficulty": "Beginner",
+          "skills": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "description": "Analyze sales data and build an interactive dashboard.",
+          "tools": [
+            "Excel",
+            "SQL",
+            "Power BI"
+          ],
+          "expected_output": "Dashboard with trends, filters, and KPI cards.",
+          "portfolio_value": "Shows business analysis and visualization skills."
+        },
+        {
+          "title": "Customer Churn Analysis",
+          "difficulty": "Intermediate",
+          "skills": [
+            "Python",
+            "Pandas",
+            "Visualization"
+          ],
+          "description": "Identify churn drivers and create a retention summary.",
+          "tools": [
+            "Python",
+            "Pandas",
+            "Matplotlib"
+          ],
+          "expected_output": "Churn report with charts and recommendations.",
+          "portfolio_value": "Demonstrates data analysis and storytelling."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Microsoft Power BI Data Analyst Associate",
+          "provider": "Microsoft",
+          "skill_covered": "Power BI, reporting, analytics",
+          "level": "Intermediate",
+          "url": "https://learn.microsoft.com/"
+        },
+        {
+          "name": "Google Data Analytics",
+          "provider": "Google",
+          "skill_covered": "SQL, spreadsheets, analytics",
+          "level": "Beginner",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+        }
+      ],
+      "interview_topics": [
+        "SQL joins and query optimization",
+        "Excel formulas and dashboarding",
+        "Business interpretation of metrics",
+        "Communication of findings to stakeholders"
+      ]
+    }
+  }
+]
